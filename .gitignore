@@ -16,3 +16,4 @@ npm-debug.log*
 .run
 yarn.lock
 
+.env
